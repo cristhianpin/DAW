@@ -1,5 +1,5 @@
 # DAW
-# Resultados electorales 
+#  POKEMON 
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
