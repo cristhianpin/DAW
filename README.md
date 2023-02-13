@@ -1,16 +1,19 @@
 # DAW
 #  POKEMON 
 
-## Imágenes de los candidatos
-### Aquiles Alvarez
-*![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
-### Cinthia Viteri
-*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+## Imágenes de los 3 iniciales de kanto
+### Bulbasur
+*![Bulbasur](https://github.com/cristhianpin/DAW/blob/main/bulbasur.jpg)
+### Squirtle
+*![Squirtle](https://github.com/cristhianpin/DAW/blob/main/squirtle.png)
+### Charizard
+*![Charizard](https://github.com/cristhianpin/DAW/blob/main/charizard.png)
 
-## Resultados 
+## Tabla 
 
 Tablas 
-| Candidato | Votos   |
+| Pokemon | Tipo   |
 | ------- | -------- |
-| Aquiles Alvarez  | 551, 996   |
-| Cinthia Viteri   | 420, 208   |
+| Bulbasur  | Planta, Veneno   |
+| Squirtle   | Agua   |
+| Charizard   | Fuego, Volador   |
